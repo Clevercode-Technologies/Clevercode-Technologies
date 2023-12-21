@@ -1,4 +1,4 @@
-![banner](/banner.png)
+![banner](/banner.avif)
 <br></br>
 
 Greetings from CleverCode-Technologies, a software design and development company with hands on tools needed to get you the result you need. We are a fullstack team with designer and developers, ranging from frontend developers to backend developers our team members are vast in knowledge and the best at what they do. We're passionate about learning, building, and bringing awesome ideas to life. We push beyond limits. Leaving the world a better place than we met it, this is our overall goal.
